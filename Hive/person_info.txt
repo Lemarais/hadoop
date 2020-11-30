@@ -1,0 +1,5 @@
+name,age,sex,income,job
+lee,30,male,7000,professor
+yu,28,male,2500,web
+ju,30,male,4500,network
+yoon,29,female,5000,marketing
